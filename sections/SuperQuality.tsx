@@ -24,7 +24,7 @@ function SuperQuality() {
           Our dedication to detail and excellence ensures your satisfaction.
         </p>
         <div className="mt-11 flex justify-center lg:justify-start">
-          <Button label="View Details" />
+          <Button label="View Details" className="text-white" />
         </div>
       </div>
       <div className="flex flex-1 justify-center items-center">

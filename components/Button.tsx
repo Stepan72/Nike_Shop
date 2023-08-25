@@ -1,11 +1,14 @@
 interface ButtonProps {
   label: string;
   iconUrl?: string;
+  className?: string;
 }
 
-function Button({ label, iconUrl }: ButtonProps) {
+function Button({ label, iconUrl, className }: ButtonProps) {
   return (
-    <button className="flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red rounded-full text-white border-coral-red">
+    <button
+      className={`flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red rounded-full  border-coral-red ${className}`}
+    >
       {label}
       {iconUrl && (
         <img
