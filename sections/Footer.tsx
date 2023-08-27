@@ -1,5 +1,4 @@
 import { footerLinks, socialMedia } from "../constants";
-import { copyrightSign } from "../src/assets/icons";
 import { footerLogo } from "../src/assets/images";
 
 function Footer() {

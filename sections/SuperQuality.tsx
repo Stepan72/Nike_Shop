@@ -1,5 +1,4 @@
 import { Button } from "../components";
-import { cheveronRight } from "../src/assets/icons";
 import { shoe8 } from "../src/assets/images";
 
 function SuperQuality() {
