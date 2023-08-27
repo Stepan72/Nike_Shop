@@ -10,7 +10,7 @@ function Footer() {
             <img src={footerLogo} alt="footer-log" width={150} height={46} />
           </a>
           <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm">
-            Get shoes ready for new term at youe neares Nike store. Find Your
+            Get shoes ready for new term at youe neares Nike store. Find your
             perfect Size in Store. Get Rewards
           </p>
           <div className="flex items-center gap-5 mt-6 self-center">
