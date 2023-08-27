@@ -3,7 +3,6 @@ import { cheveronRight } from "../src/assets/icons";
 import { shoe8 } from "../src/assets/images";
 
 function SuperQuality() {
-  console.log("check");
   return (
     <section
       className="padding flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"

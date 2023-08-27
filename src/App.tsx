@@ -27,5 +27,3 @@ const App = () => {
 };
 
 export default App;
-
-/// SubscribeSection 2:30:26
